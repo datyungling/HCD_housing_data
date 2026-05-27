@@ -1,0 +1,4 @@
+# Large data files
+data/hcd.duckdb
+data/hcd.duckdb.wal
+data/hcd_table_a2.csv
